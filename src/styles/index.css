@@ -41,5 +41,5 @@ body {
 /* Brillo de la luz activa */
 .light.active {
   opacity: 1;
-  box-shadow: 0 0 60px 30px currentColor;
+  box-shadow: 0 0 30px 10px #f0d6415e;
 }
