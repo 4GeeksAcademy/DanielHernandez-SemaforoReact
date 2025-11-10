@@ -26,20 +26,34 @@ body {
   background: red;
 }
 
+.light.red.active{
+    opacity: 1;
+    box-shadow: 0 0 30px 10px red;
+}
+
 .light.yellow {
   background: gold;
+}
+
+.light.yellow.active{
+    opacity: 1;
+    box-shadow: 0 0 30px 10px gold;
 }
 
 .light.green {
   background: limegreen;
 }
 
+.light.green.active{
+    opacity: 1;
+    box-shadow: 0 0 30px 10px limegreen;
+}
+
 .light.purple {
   background: purple;
 }
 
-/* Brillo de la luz activa */
-.light.active {
-  opacity: 1;
-  box-shadow: 0 0 30px 10px #f0d6415e;
+.light.purple.active{
+    opacity: 1;
+    box-shadow: 0 0 30px 10px purple;
 }
